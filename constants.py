@@ -28,7 +28,7 @@ SCREEN_HEIGHT = GAME_HEIGHT
 
 # Game speed
 FPS = 60
-FALL_SPEED = 0.5  # Blocks per second
+FALL_SPEED = 4  # Blocks per second
 FALL_TIME = 1 / FALL_SPEED
 
 # Tetromino shapes
