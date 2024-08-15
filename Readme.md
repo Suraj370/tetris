@@ -4,9 +4,9 @@ This is a simple implementation of the classic Tetris game using Python and Pyga
 
 ## Screenshots
 
-[Add a screenshot of the game in action here]
+![Add a screenshot of the game in action here](images/image1.png)
 
-[Add a screenshot of the game over screen here]
+![Add a screenshot of the game over screen here](images/image2.png)
 
 ## Features
 
@@ -24,7 +24,7 @@ This is a simple implementation of the classic Tetris game using Python and Pyga
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/python-tetris.git
+   git clone git@github.com:Suraj370/tetris.git
    ```
 
 2. Navigate to the project directory:
@@ -75,11 +75,5 @@ python main.py
 - `tetromino.py`: Defines the Tetromino shapes and their behavior
 - `constants.py`: Stores game constants
 
-## Contributing
 
-Feel free to fork this project and submit pull requests with improvements or bug fixes. You can also open issues for any bugs you find or features you'd like to suggest.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
